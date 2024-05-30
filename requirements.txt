@@ -1,0 +1,10 @@
+requests
+protobuf==3.20.3
+numpy==1.26.2
+scapy
+tensorflow
+scipy==1.11.4
+rich
+cloup
+CherryPy
+git+https://gitlab.abo.fi/tahmad/cicflowmeter-py.git@py36
